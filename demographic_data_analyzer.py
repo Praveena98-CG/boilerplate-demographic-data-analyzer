@@ -1,4 +1,7 @@
 import pandas as pd
+df=pd.read_csv("adult.data.csv")
+
+print (df.head())
 
 hfnenvefnje
 def calculate_demographic_data(print_data=True):
